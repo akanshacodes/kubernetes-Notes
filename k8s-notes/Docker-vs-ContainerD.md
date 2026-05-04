@@ -37,7 +37,7 @@ To solve this, Kubernetes introduced the **Container Runtime Interface (CRI)** �
 - **Image Spec** — Defines how a container image should be built.
 - **Runtime Spec** — Defines the standards for how any container runtime should be developed.
 
-Any runtime built to these standards can work with Kubernetes via the CRI. Rocket and other OCI-compliant runtimes were now supported.
+Any runtime built to these standards can work with Kubernetes via the CRI. Rkt and other OCI-compliant runtimes were now supported.
 
 ---
 
